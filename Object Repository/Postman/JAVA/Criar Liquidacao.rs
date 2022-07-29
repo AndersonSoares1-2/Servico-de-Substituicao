@@ -30,7 +30,7 @@
    &lt;soapenv:Body>
       &lt;ws:createPayGenericRequest>
          &lt;ws:idEmissora>03&lt;/ws:idEmissora>
-         &lt;ws:idExterno>CREATE01999121&lt;/ws:idExterno>
+         &lt;ws:idExterno>CREATE01999121&lt;/ws:idExterno>s
          &lt;ws:idNif>5000187534&lt;/ws:idNif>
          &lt;!--Optional:-->
          &lt;ws:idConta>&lt;/ws:idConta>
